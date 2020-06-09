@@ -1,0 +1,31 @@
+{
+  key: '开场锣鼓 2.mp4',
+  hash: 'lq83xkwK4bMYJW95sqIJPwKX2P9-',
+  fsize: 1400910235,
+  bucket: 'beautiful-reading-audio',
+  name: '开场锣鼓 2.mp4',
+  uuid: '904d8008-dfd8-4a0a-9a72-1cf02c406a2a',
+  duration: '925.960000',
+  width: 1280,
+  height: 720
+}{
+  key: '开场锣鼓 3.mp4',
+  hash: 'lnFkDKyIBUvEicHVIrJQ1WDch8-b',
+  fsize: 1450092211,
+  bucket: 'beautiful-reading-audio',
+  name: '开场锣鼓 3.mp4',
+  uuid: '2c90f30a-8ea2-448c-8663-7ef8fa34440f',
+  duration: '958.520000',
+  width: 1280,
+  height: 720
+}{
+  key: '开场锣鼓 1.mp4',
+  hash: 'ljd739jTMSvor2TdLEVo4jEBOsTS',
+  fsize: 1812811875,
+  bucket: 'beautiful-reading-audio',
+  name: '开场锣鼓 1.mp4',
+  uuid: '898b3e23-3a91-406e-a1ae-b304a4d34395',
+  duration: '1198.040000',
+  width: 1280,
+  height: 720
+}
