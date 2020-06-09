@@ -1,0 +1,11 @@
+// test.http
+@url=http://localhost:3000/api
+
+###
+POST {{url}}/login
+Content-Type: application/json
+
+{
+  "username": "admin",
+  "password": "123456"
+}
